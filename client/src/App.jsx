@@ -132,3 +132,13 @@ function App() {
 }
 
 export default App;
+ul {
+  list-style-position: inside; 
+  padding: 0;
+  text-align: center; 
+}
+
+li {
+  list-style-type: disc; 
+  margin-bottom: 5px;
+}
