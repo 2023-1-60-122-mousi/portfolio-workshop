@@ -55,6 +55,11 @@ function App() {
      </nav>
 
      <section className="hero">
+      <img 
+        src="/mousi.jpg" 
+        alt="Mousi" 
+        style={{ width: '150px', height: '150px', borderRadius: '50%', objectFit: 'cover', marginBottom: '20px' }} 
+      />
        <h1>Hello, I am Mousi</h1>
        <p>CSE Student | Data Analyst | Problem Solver</p>
      </section>
