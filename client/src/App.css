@@ -182,3 +182,13 @@
     border-right-color: var(--border);
   }
 }
+ul {
+  display: inline-block;
+  text-align: left;
+  list-style-position: outside;
+  padding-left: 20px;
+}
+
+section#skills {
+  text-align: center;
+}
